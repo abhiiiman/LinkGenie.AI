@@ -96,6 +96,22 @@ curl -X POST http://localhost:5000/generate \
     "variations": 1
   }'
 ```
+API Response
+```json
+{
+    "results": [
+        {
+            "analysis": {
+                "char_count": 955,
+                "sentence_count": 7,
+                "word_count": 125
+            },
+            "post": "Looking ahead to 2025 🚀, the world of Artificial Intelligence  is poised for some incredible advancements. \n\nHere are a few trends to watch: \n\n* **Hyper-personalization 🎯:** AI will tailor experiences in marketing, education, and healthcare to individual needs like never before. \n* **Democratization of AI 🤝:**  More accessible tools and platforms will empower individuals and businesses of all sizes to leverage AI's potential. \n* **AI-powered Automation 🤖:**  Repetitive tasks across industries will be increasingly automated, freeing up human workers for more creative and strategic roles.\n* **Ethical AI 🧠:**  Growing emphasis on responsible development and deployment of AI will ensure fairness, transparency, and accountability.\n\nThese advancements will undoubtedly shape the future of work and drive innovation across sectors.  Are you ready to embrace the AI revolution? 🤔  \n\n#AI #ArtificialIntelligence #FutureofWork #TechTrends #Innovation  \n\n\n"
+        }
+    ],
+    "success": true
+}
+```
 
 ### API Parameters
 
