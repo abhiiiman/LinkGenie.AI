@@ -1,0 +1,8 @@
+langchain
+langchain-community
+openai
+streamlit
+flask
+python-dotenv
+langchain_openai
+langchain_groq
