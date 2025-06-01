@@ -10,13 +10,13 @@ Generate professional, engaging LinkedIn posts with AI assistance. Elevate your 
 ### 💻 App Interface Preview 
 > Light Theme 🤍
 
-![LinkGenie Preview](.github\assets\white-intro.png)
-![LinkGenie Preview](.github\assets\white-variations.png)
+![LinkGenie Preview](.github\assets\image-1.png)
+![LinkGenie Preview](.github\assets\image-2.png)
 
 > Dark Theme 🖤
 
-![LinkGenie Preview](.github\assets\dark-intro.png)
-![LinkGenie Preview](.github\assets\dark-variations.png)
+![LinkGenie Preview](.github\assets\image-3.png)
+![LinkGenie Preview](.github\assets\image-4.png)
 
 ## ✨ Features
 
